@@ -1,0 +1,6 @@
+{
+	"name": "Docker Compose",
+	"dockerComposeFile": "docker-compose.yaml",
+	"service": "datacose-vue-challenge-service",
+    "workspaceFolder": "/app"
+}
